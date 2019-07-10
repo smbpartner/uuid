@@ -1,0 +1,12 @@
+{
+    "name": "smb/module-manager",
+    "description": "Module / Plugin / Access manager for Laravel",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "Asbjørn Pettersen",
+            "email": "asbjorn@smbpartner.no"
+        }
+    ],
+    "require": {}
+}

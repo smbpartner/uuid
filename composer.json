@@ -1,12 +1,18 @@
 {
-    "name": "smb/module-manager",
-    "description": "Module / Plugin / Access manager for Laravel",
-    "type": "composer-plugin",
+    "name": "smb/uses-uuid",
+    "description": "UUID for Laravel",
     "authors": [
         {
             "name": "Asbjørn Pettersen",
             "email": "asbjorn@smbpartner.no"
         }
     ],
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "SMB\\UsesUuid\\": "src/app/"
+        }
+    },
+    "require": {},
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }

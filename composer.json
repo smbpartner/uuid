@@ -1,5 +1,5 @@
 {
-    "name": "smb/uses-uuid",
+    "name": "smbpartner/uuid",
     "description": "UUID for Laravel",
     "authors": [
         {

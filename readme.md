@@ -1,8 +1,8 @@
 UUID package for Laravel
 
-- Use on your own risk.
-
-use SMB\UsesUuid\UsesUuid;
+*Use on your own risk.*
 
 
-use UsesUuid;
+'use SMB\UsesUuid\UsesUuid;
+
+use UsesUuid;'

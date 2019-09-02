@@ -1,6 +1,6 @@
 # UUID package for Laravel
 
-*Use on your own risk.*
+*Use at your own risk.*
 
 ---
 

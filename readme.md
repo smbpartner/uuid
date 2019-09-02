@@ -5,4 +5,4 @@ UUID package for Laravel
 
 `use SMB\UsesUuid\UsesUuid;
 
-use UsesUuid;
+use UsesUuid;`
